@@ -63,3 +63,135 @@ void main(){
         }
     }
 }
+
+
+//OUTPUT
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 1
+Enter a data to insert: 10
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 1
+Enter a data to insert: 20
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 1
+Enter a data to insert: 30
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 1
+Enter a data to insert: 40
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 1
+Enter a data to insert: 50
+Stack is full
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 4
+40
+30
+20
+10
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 3
+40
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 2
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 2
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 4
+20
+10
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 3
+20
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 2
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 2
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 4
+Stack is empty
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 2
+Stack is empty
+
+1.Push 
+2.Pop 
+3.Peek 
+4.Display 
+5.Exit
+Enter your choice: 5
+
+
+=== Code Execution Successful ===
