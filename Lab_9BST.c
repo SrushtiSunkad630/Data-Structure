@@ -63,12 +63,15 @@ void main(){
                    break;
             case 2:printf("In-Order Traversal: ");
                    inOrder(root);
+                   printf("\n");
                    break;
             case 3:printf("Pre-Order Traversal: ");
                    preOrder(root);
+                   printf("\n");
                    break;
             case 4:printf("Post-Order Traversal: ");
                    postOrder(root);
+                   printf("\n");
                    break;
             case 5:exit(0);
                    break;
@@ -76,3 +79,55 @@ void main(){
         }
     }
 }
+//OUTPUT
+1.Insert into BST
+2.In-Order Traversal
+3.Pre-Order Traversal
+4.Post-order Traversal
+5.exit
+Enter your choice: 1
+Enter the value to insert:60
+1.Insert into BST
+2.In-Order Traversal
+3.Pre-Order Traversal
+4.Post-order Traversal
+5.exit
+Enter your choice: 1
+Enter the value to insert:50
+1.Insert into BST
+2.In-Order Traversal
+3.Pre-Order Traversal
+4.Post-order Traversal
+5.exit
+Enter your choice: 1
+Enter the value to insert:30
+1.Insert into BST
+2.In-Order Traversal
+3.Pre-Order Traversal
+4.Post-order Traversal
+5.exit
+Enter your choice: 2
+In-Order Traversal: 30 50 60
+1.Insert into BST
+2.In-Order Traversal
+3.Pre-Order Traversal
+4.Post-order Traversal
+5.exit
+Enter your choice: 3
+Pre-Order Traversal: 60 50 30
+1.Insert into BST
+2.In-Order Traversal
+3.Pre-Order Traversal
+4.Post-order Traversal
+5.exit
+Enter your choice: 4
+Post-Order Traversal: 30 50 60
+1.Insert into BST
+2.In-Order Traversal
+3.Pre-Order Traversal
+4.Post-order Traversal
+5.exit
+Enter your choice: 5
+
+Process returned 0 (0x0)   execution time : 17.878 s
+Press any key to continue.
